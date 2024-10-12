@@ -1,5 +1,8 @@
-## Hi there 👋
-
+### Hello! My name is Trudy, I am a Front-end Web Developer
+- 👩🏻‍💻 I’m currently working on a tourism website and a PWA
+- 🌱 I’m currently learning about secure coding practices, PWAs, (generative art), C#, and relearning SQL 
+- 🙌 I’m looking for help with job applications and interviews!
+  
 <!--
 **trudypwong/trudypwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
