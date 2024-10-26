@@ -1,6 +1,6 @@
-### Hello! My name is Trudy, I am a Front-end Web Developer
-- 👩🏻‍💻 I’m currently working on a tourism website and a PWA
-- 🌱 I’m currently learning about secure coding practices, PWAs, (generative art), C#, and relearning SQL 
+### Hello! My name is Trudy, I am a software developer who focuses on the front end of the web.
+- 👩🏻‍💻 I’m currently working on a tourism website and a JavaScript game.
+- 🌱 I’m currently learning about secure coding practices, and generative art.
 
 <!-- 
 Playing with the GitHub page view counter from:
