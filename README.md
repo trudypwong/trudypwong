@@ -1,6 +1,7 @@
 ### Hello! My name is Trudy, I am a software developer who focuses on the front end of the web.
-- 👩🏻‍💻 I’m currently working on a tourism website and a JavaScript game.
-- 🌱 I’m currently learning about secure coding practices, and generative art.
+- 👩🏻‍💻 I’m currently working on an e-commerce website and a progressive web application.
+- 🌱 I’m currently learning about **cloud computing with AWS** and relearning **backend** technologies.
+- 💕 My favourite frameworks, libraries, and languages atm are **JavaScript**, **React**, **Angular**, and **Node**.
 
 <!-- 
 Playing with the GitHub page view counter from:
