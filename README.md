@@ -1,7 +1,8 @@
 ### Hello! My name is Trudy, I am a software developer currently focusing on web development.
-- 👩🏻‍💻 I’ve recently worked on an e-commerce **website**, and a progressive web application (**PWA**).
-- 🌱 I’m currently learning **cloud computing with AWS** and **testing frameworks**.
-- 💕 My favourite frameworks, libraries, and languages atm are **JavaScript**, **React**, **Angular**, **Node**, and **Python**.
+- 👩🏻‍💻 Building e-commerce experiences and going deep on **JavaScript**.
+- 🌱 Currently exploring **CSS art**, **SVG animations**, **testing frameworks**, and **cybersecurity**.
+- 💕 Stack: JavaScript, React, Angular, Node.js, and Python.
+- 🤝 Open to collabs and learning in public!
 
 <!-- 
 Playing with the GitHub page view counter from:
