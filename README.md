@@ -2,7 +2,7 @@
 - 👩🏻‍💻 Building e-commerce experiences and going deep on **JavaScript**.
 - 🌱 Currently exploring **CSS art**, **SVG animations**, **testing frameworks**, and **cybersecurity**.
 - 💕 Stack: JavaScript, React, Angular, Node.js, and Python.
-- 🤝 Open to collabs and learning in public!
+- 🤝 Open to collabs!
 
 <!-- 
 Playing with the GitHub page view counter from:
